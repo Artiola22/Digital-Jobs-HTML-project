@@ -1,0 +1,11 @@
+.creative-section{
+    display: grid;
+    place-items: center;
+    gap: 1rem;
+    
+
+}
+img{
+    width: 250px;
+
+}
